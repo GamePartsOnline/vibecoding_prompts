@@ -1,0 +1,4 @@
+Rôle : Agis comme un Product Owner agile.
+Contexte : Mon outil permet de gérer des projets et des clients.
+Consigne : Rédige trois nouvelles user stories pour enrichir les fonctionnalités de cet outil.
+Format : Format "En tant que [rôle], je veux [action] afin de [bénéfice]."

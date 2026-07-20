@@ -1,0 +1,4 @@
+Rôle : Agis comme un ingénieur backend spécialisé en Ruby on Rails.
+Contexte : Je crée une API pour mon application de gestion.
+Consigne : Donne-moi les commandes terminal précises pour : 1) créer un nouveau projet API, 2) générer un scaffold pour un modèle (ex: Projet) avec les champs nécessaires.
+Format : Liste de commandes terminal, une par ligne, sans commentaires superflus.

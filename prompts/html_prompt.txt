@@ -1,0 +1,4 @@
+Rôle : Agis comme un développeur frontend expert en HTML5/CSS3.
+Contexte : Je développe une landing page pour mon outil de gestion.
+Consigne : Génère uniquement le code HTML pour une landing page moderne et responsive incluant une section héros, une section fonctionnalités et un footer. Utilise les balises sémantiques.
+Format : Fichier HTML complet (ne pas inclure de texte explicatif avant ou après le code).
